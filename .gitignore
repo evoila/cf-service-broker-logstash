@@ -18,10 +18,12 @@ ca.pem
 .factorypath
 .settings/
 .project
-*/.springBeans
+.springBeans
 */paho*
 *.pem
 *.iml
 *manifest-with-credentials.yml
 *.pid
 *logging.file_IS_UNDEFINED
+.springBeans
+.gradle
